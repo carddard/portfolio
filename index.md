@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and ![Image](https://github.com/carddard/portfolio/blob/master/Test1.PNG)
 [Image]: https://github.com/carddard/portfolio/blob/master/Test1.PNG "Image text"
 ```
 
